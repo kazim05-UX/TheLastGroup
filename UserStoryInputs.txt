@@ -1,0 +1,15 @@
+Send Email Template
+Person X wants to email Person Y about Topic A. Person X clicks the + icon to create a new email to person Y, which then displays a text editor where Person X can write their email to send. Person X includes the subject, email contents, their signature, and then the date to send. Person X clicks send or send later once the email is written/completed. If Person X clicks send later, they are prompted to pick a time. Once send or send later has been clicked, a confirmation message pops up indicating that the message has been sent or has been scheduled to send.
+
+Receive Email Template
+Person Y receives a notification about an email from person X. Opens the email by clicking on the email and reads the email by Person X. Person Y “stars” the email. Person Y deletes the email. Person Y responds to the email.
+
+
+Send Email User Story 1:
+A coworker wants to email a fellow coworker about an upcoming meeting. They click the + icon to create a new email, which then displays a text editor where they can write their email to send. The sender then includes the date and location of their meeting as well as their signature to send. The sender then clicks send or send later once the email is written/completed. If the sender clicks send later, they are prompted to pick a time. Once send or send later has been clicked, a confirmation message pops up indicating that the message has been sent or has been scheduled to send.
+
+Receive Email User Story 1:
+Kate receives a notification of an email. She opens an email to find a link inside an email. As she is suspicious, she reports the email as spam, and the system deletes the email from the inbox.
+
+Receive Email User Story 2: 
+Bob receives an email from UW. He opens the email to find important information regarding his school. He stars the email(which puts the email into the important email category), for future references.
